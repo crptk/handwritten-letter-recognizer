@@ -1,6 +1,4 @@
-Got it 👍 — here’s a clean **README.md** draft for your project:
 
-````markdown
 # Handwritten Letter Recognizer (A–Z)
 
 This project demonstrates handwritten letter recognition (A–Z) using two different approaches:  
